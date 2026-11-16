@@ -1,6 +1,6 @@
 # Vorath Infestation: bugs and requests
 
-This repository is for reports about **Vorath Infestation**, a Minecraft Java 26.2 mod (NeoForge + GeckoLib).
+This repository is for reports about **Vorath Infestation**, a Minecraft Java 1.21.1 mod (NeoForge + GeckoLib).
 The mod's source is private; this is where players report problems and ask for other versions.
 
 - [Report a bug](../../issues/new?template=bug_report.md)

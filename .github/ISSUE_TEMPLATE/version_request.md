@@ -4,7 +4,7 @@ about: Ask for Vorath Infestation on another Minecraft version or loader
 labels: version request
 ---
 
-**Minecraft version:** (e.g. 1.21.1)
+**Minecraft version:** (e.g. 1.20.1)
 **Loader:** (NeoForge, Forge, Fabric)
 **Modpack, if any:** (name and link)
 
